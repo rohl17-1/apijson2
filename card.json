@@ -1,5 +1,13 @@
-[
-  {
+{
+  "card1": [
+      {
+    "cta": "Explore agora",
+    "imageUrl": "https://i.postimg.cc/Fs9tHK02/ezgif-766eb5a78e41be.jpg",
+    "link": "https://oportunidade.eliasmaman.com.br/templates-ft"
+  }
+  ],
+  "card3": [
+    {
     "cta": "Explore agora",
     "imageUrl": "https://i.postimg.cc/Fs9tHK02/ezgif-766eb5a78e41be.jpg",
     "link": "https://oportunidade.eliasmaman.com.br/templates-ft"
@@ -14,4 +22,5 @@
     "imageUrl": "https://i.postimg.cc/Fs9tHK02/ezgif-766eb5a78e41be.jpg",
     "link": "https://chatgpt.com/"
   }
-]
+  ]
+}
