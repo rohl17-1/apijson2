@@ -9,17 +9,22 @@
   "card3": [
     {
     "cta": "Explore agora",
-    "imageUrl": "https://i.postimg.cc/Fs9tHK02/ezgif-766eb5a78e41be.jpg",
+    "imageUrl": "https://i.postimg.cc/TwFrHhfh/ezgif-71e07ae0c8e69e.jpg",
     "link": "https://oportunidade.eliasmaman.com.br/templates-ft"
   },
 {
     "cta": "Explore agora 2",
-    "imageUrl": "https://i.postimg.cc/TwFrHhfh/ezgif-71e07ae0c8e69e.jpg",
+    "imageUrl": "https://i.postimg.cc/XY8H9RVT/ezgif-27a0ae835789d.avif",
     "link": "https://checkout.com/sql"
   },
 {
     "cta": "Explore agora 3",
-    "imageUrl": "https://i.postimg.cc/Fs9tHK02/ezgif-766eb5a78e41be.jpg",
+    "imageUrl": "https://i.postimg.cc/GtGztN7g/ezgif-2849e22868dbd.avif",
+    "link": "https://chatgpt.com/"
+  },
+{
+    "cta": "Explore agora 4",
+    "imageUrl": "https://i.postimg.cc/h4z5NZrd/ezgif-2b7d291cc433d.avif",
     "link": "https://chatgpt.com/"
   }
   ]
