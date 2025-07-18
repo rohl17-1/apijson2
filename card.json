@@ -27,5 +27,17 @@
     "imageUrl": "https://i.postimg.cc/Rht6Bxsh/ezgif-20c07e3e385fbf.webp",
     "link": "https://chatgpt.com/"
   }
+  ],
+  "corp-info": [
+    {
+      "title": "Sobre Nós",
+      "description": "Informações sobre a empresa",
+      "link": "/sobre"
+    },
+    {
+      "title": "Trabalhe Conosco",
+      "description": "Veja oportunidades de carreira",
+      "link": "/carreiras"
+    }
   ]
 }
