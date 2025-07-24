@@ -30,6 +30,10 @@
   ],
   "corp_info": [
     {
+      "card1": "no",
+      "card3": "ok"
+    },
+    {
       "title": "Sobre Nós",
       "description": "Informações sobre a empresa",
       "link": "/sobre"
